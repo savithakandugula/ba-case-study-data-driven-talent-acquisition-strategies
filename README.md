@@ -9,7 +9,7 @@ This case study presents a comprehensive analysis of regional talent acquisition
 **Date:** November 2024  
 **Role:** Digital TA Specialist Interview Assignment
 
-![Slide 1: Introduction](images/Slide1.png)
+![Slide 1: Introduction](Slide1.png)
 
 ---
 
@@ -19,7 +19,7 @@ This case study presents a comprehensive analysis of regional talent acquisition
 - Current role as an IT Recruitment Partner at Elevate Jobs, achieving a 20% increase in placement rates.
 - Emphasis on analytical and creative problem-solving in talent acquisition.
 
-![Slide 2: Professional Experience](images/Slide2.png)
+![Slide 2: Professional Experience](Slide2.png)
 
 ---
 
@@ -29,7 +29,7 @@ This case study presents a comprehensive analysis of regional talent acquisition
 - Assessed factors like language requirements, visa/work permit regulations, and local vs. expatriate candidate dynamics.
 - Compared sourcing channels (LinkedIn, Bayt, Naukrigulf, etc.) to determine the most effective strategies.
 
-![Slide 3: Methodology](images/Slide3.png)
+![Slide 3: Methodology](Slide3.png)
 
 ---
 
@@ -40,10 +40,10 @@ This case study presents a comprehensive analysis of regional talent acquisition
 - **Casablanca & Cairo:** Different challenges in balancing local and expatriate talent with unique language and regulatory requirements.
 - **Tunis, Abu Dhabi, Sharjah, Riyadh:** Each with specific considerations regarding work permits, cost efficiency, and recruitment diversity.
 
-![Slide 4: Regional Analysis](images/Slide4.png)
-![Slide 5: Regional Analysis](images/Slide5.png)
-![Slide 6: Regional Analysis](images/Slide6.png)
-![Slide 7: Regional Analysis](images/Slide7.png)
+![Slide 4: Regional Analysis](Slide4.png)
+![Slide 5: Regional Analysis](Slide5.png)
+![Slide 6: Regional Analysis](Slide6.png)
+![Slide 7: Regional Analysis](Slide7.png)
 
 ---
 
@@ -55,7 +55,7 @@ This case study presents a comprehensive analysis of regional talent acquisition
 
 These recommendations underscore the importance of leveraging data and market-specific insights to drive successful recruitment outcomes.
 
-![Slide 8: Recommendations](images/Slide8.png)
+![Slide 8: Recommendations](Slide8.png)
 
 ---
 
